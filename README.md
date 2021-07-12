@@ -7,15 +7,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jocalu&label=Profile%20views&color=0e75b6&style=flat" alt="jocalu" /> </p>
 
-- 💻 I’m currently working on **Drinks&Co**
+- 💻  I’m currently working on **Drinks&Co**
 
-- 🌱 I’m currently learning **Vue.js, Typescript**
+- 🌱  I’m currently learning **Vue.js, Typescript**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-jose-carcamo.web.app/projects](https://portfolio-jose-carcamo.web.app/projects)
+- 👨‍💻  All of my projects are available in my [portfolio](https://portfolio-jose-carcamo.web.app)
 
-- 💬 Ask me about **React, Vue, Scss**
+- 💬  Ask me about **React, Vue, Scss**
 
-- 📫 You can write to me at **jocalu87@gmail.com**
+- 📫  You can write to me at **jocalu87@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
