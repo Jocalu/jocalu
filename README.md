@@ -1,4 +1,4 @@
-<body style="color:red;">
+<body style="background:red;">
 <h1 align="center">Hi 👋, I'm Jose</h1>
 <h3 align="center">A passionate frontend developer from Barcelona, Spain</h3>
 
