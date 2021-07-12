@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jose</h1>
 <h3 align="center">A passionate frontend developer from Barcelona, Spain</h3>
 
+<p align="center">
+  <img src="https://strongarticle.com/wp-content/uploads/2019/11/d41586-019-00653-5_16459152.jpg" width="400" title="Jose Cárcamo" alt="Jose Cárcamo">
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jocalu&label=Profile%20views&color=0e75b6&style=flat" alt="jocalu" /> </p>
 
 - 💻 I’m currently working on **Drinks&Co**
