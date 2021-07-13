@@ -2,11 +2,13 @@
 <h1 align="center">Hi 👋, I'm Jose</h1>
 <h3 align="center">A passionate frontend developer from Barcelona, Spain</h3>
 
+&nbsp;
+
 <div>
 <img align="right" src="https://strongarticle.com/wp-content/uploads/2019/11/d41586-019-00653-5_16459152.jpg" width="400" title="Jose Cárcamo" alt="Jose Cárcamo">
 
 
-- 💻  I’m currently working on **Drinks&Co**
+- 💻  I’m currently working on **[Drinks&Co](https://www.linkedin.com/company/drinks-co-marketplace/mycompany/)**
 
 - 🌱  I’m currently learning **Vue.js, Typescript**
 
