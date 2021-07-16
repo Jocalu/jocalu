@@ -8,15 +8,15 @@
 <img align="right" src="https://strongarticle.com/wp-content/uploads/2019/11/d41586-019-00653-5_16459152.jpg" width="400" title="Jose Cárcamo" alt="Jose Cárcamo">
 
 
-- 💻  I’m currently working on **[Drinks&Co](https://www.linkedin.com/company/drinks-co-marketplace/mycompany/)**
+- 💻 &nbsp;&nbsp;I’m currently working on **[Drinks&Co](https://www.linkedin.com/company/drinks-co-marketplace/mycompany/)**
 
-- 🌱  I’m currently learning **Vue.js, Typescript**
+- 🌱 &nbsp;&nbsp;I’m currently learning **Vue.js, Typescript**
 
-- 👨‍💻  All of my projects are available in my [portfolio](https://portfolio-jose-carcamo.web.app)
+- 👨‍💻 &nbsp;&nbsp;All of my projects are available in my [portfolio](https://portfolio-jose-carcamo.web.app)
 
-- 💬  Ask me about **React, Vue, Scss**
+- 💬 &nbsp;&nbsp;Ask me about **React, Vue, Scss**
 
-- 📫  You can write to me at **jocalu87@gmail.com**
+- 📫 &nbsp;&nbsp;You can write to me at **jocalu87@gmail.com**
 
 </div>
 
