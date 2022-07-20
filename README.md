@@ -12,9 +12,7 @@
 
 - 🌱 &nbsp;&nbsp;I’m currently learning **Vue.js, Typescript**
 
-- 👨‍💻 &nbsp;&nbsp;All of my projects are available in my [portfolio](https://portfolio-jose-carcamo.web.app)
-
-- 💬 &nbsp;&nbsp;Ask me about **React, Vue, Scss**
+- 💬 &nbsp;&nbsp;Ask me about **React, Vue, Storybook**
 
 </div>
 
