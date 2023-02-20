@@ -1,20 +1,19 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=jocalu&label=Profile%20views&color=0e75b6&style=flat" alt="jocalu" /> </p>
 <p align="center"><img src="https://ibb.co/LxV7Lt2"></p>
 
-&nbsp;
+<h1>Jose Cárcamo Lucena</h1>
+<h3>Web Developer</h3>
 
-<div>
-<img align="right" src="https://strongarticle.com/wp-content/uploads/2019/11/d41586-019-00653-5_16459152.jpg" width="400" title="Jose Cárcamo" alt="Jose Cárcamo">
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;🏠&nbsp;&nbsp;I am from Barcelona, Spain.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;💻&nbsp;&nbsp;I am currently working at Drinks&Co as a Frontend developer.&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;🌱&nbsp;&nbsp;Learning Typescript and Design Patterns.
+</p>
 
+<br/>
 
-- 💻 &nbsp;&nbsp;I’m currently working on **[Drinks&Co](https://www.linkedin.com/company/drinks-co-marketplace/mycompany/)** as Frontend developer
-
-- 🌱 &nbsp;&nbsp;I’m currently learning **Typescript, Design patterns**
-
-</div>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jose-carcamo-web-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jose-carcamo-web-developer" height="30" width="40" /></a>
-<a href="mailto:jocalu87@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="jocalu87@gmail.com" height="30" width="40" /></a>
+<p align="center">
+    <a href="https://www.linkedin.com/in/jose-carcamo-web-developer/">
+        <img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+    </a>
 </p>
