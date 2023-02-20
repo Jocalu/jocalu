@@ -1,4 +1,3 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=jocalu&label=Profile%20views&color=0e75b6&style=flat" alt="jocalu" /> </p>
 <p align="center"><img src="https://raw.githubusercontent.com/Jocalu/Jocalu/main/header.png"></p>
 
 <h3>Hi there 👋</h3>
