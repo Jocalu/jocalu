@@ -5,7 +5,6 @@
 <p>I'm Jose Cárcamo, a Web developer.</p>
 
 <hr>
-
 <p>
 &nbsp;&nbsp;🏠&nbsp;&nbsp;I am from Barcelona, Spain.<br/>
 &nbsp;&nbsp;💻&nbsp;&nbsp;I am currently working at Drinks&Co as a Frontend developer.<br/>
