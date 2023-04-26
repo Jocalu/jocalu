@@ -8,7 +8,7 @@
 
 <p>
 &nbsp;&nbsp;🏠&nbsp;&nbsp;I am from Barcelona, Spain.<br/>
-&nbsp;&nbsp;💻&nbsp;&nbsp;I am currently working at Drinks&Co as a Frontend developer.<br/>
+&nbsp;&nbsp;💻&nbsp;&nbsp;I am currently working at Openbank as a Frontend developer.<br/>
 &nbsp;&nbsp;🌱&nbsp;&nbsp;Learning Typescript and Design Patterns.
 </p>
 
